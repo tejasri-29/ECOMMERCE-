@@ -71,7 +71,7 @@ $password = "";
 $dbname = "ecommerce";
 Access the application:
 
-Navigate to http://localhost/ECOMMERCE-/ in your web browser.
+Navigate to http://localhost/ecommerce/ in your web browser.
 
 📂 Project Structure
 perl
